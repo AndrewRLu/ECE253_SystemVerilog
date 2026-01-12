@@ -4,8 +4,8 @@ A FSM-based SystemVerilog implementation of a simple processor capable of perfor
 
 Supports both register-register and register-immediate operations.
 
-## Example: `Add` Opperation
-The included `wave.do` is imcluded to demonstrate `add` operation in ModelSim.
+## Example: `Add` Operation
+The included `wave.do` demonstrates `add` operation in ModelSim.
 
 | Simulation Result | ![add_demo](./images/add_wave.png) |
 |:---:|:---:|
