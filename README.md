@@ -7,5 +7,5 @@ Supports both register-register and register-immediate operations.
 ## Example: `Add` Opperation
 The included `wave.do` is imcluded to demonstrate `add` operation in ModelSim.
 
-| Simulation Result | ![add_demo](./images/add_demo.png) |
+| Simulation Result | ![add_demo](./images/add_wave.png) |
 |:---:|:---:|
